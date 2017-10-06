@@ -31,9 +31,21 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="contrataciones.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="contrataciones.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="pantallas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pantallas.h" />
+		<Unit filename="validar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="validar.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

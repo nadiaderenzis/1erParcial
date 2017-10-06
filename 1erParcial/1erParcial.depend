@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1507250346 source:d:\nadia\parcial\1erparcial\1erparcial\contrataciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contrataciones.h"
+	"validar.h"
+	"pantallas.h"
+
+1507249016 d:\nadia\parcial\1erparcial\1erparcial\contrataciones.h
+
+1507248301 d:\nadia\parcial\1erparcial\1erparcial\validar.h
+
+1507247262 source:d:\nadia\parcial\1erparcial\1erparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+	"contrataciones.h"
+	"validar.h"
+
+1507248301 d:\nadia\parcial\1erparcial\1erparcial\pantallas.h
+
+1507246364 source:d:\nadia\parcial\1erparcial\1erparcial\pantallas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pantallas.h"
+	"validar.h"
+
+1507244065 source:d:\nadia\parcial\1erparcial\1erparcial\validar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contrataciones.h"
+	"pantallas.h"
+
